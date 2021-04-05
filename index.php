@@ -70,7 +70,7 @@ while ($row=pg_fetch_row($result)) {
                       <input class="form-check-input" type="checkbox" name="remember"> Remember me
                     </label>
 				</div>
-				<button type="submit" class="btn btn-success btn-block">Login</button>
+				<button type="submit" class="btn btn-success btn-block" src="index1.php">Login</button>
 				
 			</form>
     </div>
